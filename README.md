@@ -1,3 +1,6 @@
+Bu proje, Python kullanılarak geliştirilmiş bir restoran sipariş ve yönetim sistemidir. Kullanıcılar, menüdeki ürünleri seçip sipariş verebilir, müşteri bilgilerini girebilir ve sipariş detaylarını görebilir. Arayüz, kullanıcı dostu ve basit bir şekilde tasarlanmıştır, bu sayede restoran çalışanlarının sipariş sürecini hızlı ve verimli bir şekilde yönetmesine olanak tanır. Siparişlerin takip edilmesi ve yönetilmesi, sistemin ana işlevlerinden biridir.
+
+
 ![Restoran Sipariş ve Yönetim Sistemi 6 05 2024 16_19_59](https://github.com/muratgull07/Siparis-Sistemi/assets/148050387/a08eb6b6-8814-415d-a00d-679e3d92f8f1)
 
 
